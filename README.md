@@ -1,4 +1,3 @@
-Berikut adalah contoh sederhana README untuk web portofolio yang telah kamu buat.
 
 ---
 
@@ -59,5 +58,3 @@ Ini adalah proyek sederhana berupa web portofolio yang dibuat menggunakan HTML d
 Proyek ini tidak memiliki lisensi khusus. Kamu bebas untuk memodifikasi dan menggunakan sesuai kebutuhan.
 
 ---
-
-Dengan README ini, siapa pun yang mengunduh atau meng-clone proyek kamu bisa memahami bagaimana cara menjalankan dan mengedit portofolio tersebut sesuai kebutuhan mereka.
